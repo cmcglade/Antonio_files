@@ -1,0 +1,16 @@
+/* CSS test file for demo purposes */ 
+img {
+		width:200px;
+		border: 10px #00FFFF;
+	}
+	
+	/*background-color: blue;*/ 
+
+body {
+	font-family: "Arial", Sans-serif;
+	color: red;
+}
+
+h1 {
+	color: blue;
+}
