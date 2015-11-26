@@ -1,0 +1,28 @@
+
+li {
+    
+    float:left; 
+    
+}
+
+ul { 
+    list-style: none;
+    margin:auto;
+    padding:15px;
+    overflow: hidden;
+} 
+
+a { 
+    font-family: sans-serif;
+    font-size: 28px;
+    color:azure; 
+    display:block;
+    width:98px; 
+    background-color:brown;
+    
+} 
+
+#navigation_bar {
+    background-color: crimson;
+    
+} 
